@@ -1,2 +1,2 @@
 # test-for-collaboration
-testin collar with stella 
+testin collab with stella 
