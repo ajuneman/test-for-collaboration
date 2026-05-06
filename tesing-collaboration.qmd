@@ -1,6 +1,6 @@
 ---
 title: "testing collaboration"
-author: "Stella Freedberg"
+author: "Stella Freedberg, Audrey Juneman"
 format: pdf
 ---
 
