@@ -1,2 +1,2 @@
 # test-for-collaboration
-testin collab with stella 
+testing collab with stella 
